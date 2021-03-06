@@ -105,17 +105,9 @@
        inkscape:transform-center-y="-0.0024965605"
        transform="matrix(0,0.12465285,-0.12465285,0,77.193627,37.282095)"
        d="m 156.33672,-12.527854 -38.66799,-0.0524 19.37938,-33.461256 z" />
-    <circle
-       style="fill:#000024;fill-opacity:1;stroke:#ffffff;stroke-width:1.5692;stroke-opacity:1"
+    <path
        id="path858"
-       sodipodi:type="arc"
-       sodipodi:cx="57.720333"
-       sodipodi:cy="38.799183"
-       sodipodi:rx="4.5204854"
-       sodipodi:ry="145.40286"
-       sodipodi:start="0"
-       sodipodi:end="0.010471103"
-       sodipodi:arc-type="slice"
+       style="fill:#000024;fill-opacity:1;stroke:#ffffff;stroke-width:1.5692;stroke-opacity:1"
        d="m 62.240819,38.799183 a 4.5204854,145.40286 0 0 1 -2.48e-4,1.5225 l -4.520238,-1.5225 z" />
     <path
        id="circle860"
